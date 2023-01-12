@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felipe Restrepo
-- 👀 I’m interested in Python/FastAPI and Javascript/ReactNative/Expo
-- 🌱 I’m currently learning the above
+- 👀 I’m interested in Python/Django/FastAPI and Javascript/ReactNative/Expo
+- 🌱 I’m currently doing a postgraduate in Machine Learning
 - 💞️ I’m looking to collaborate on social impact projects
 - 📫 maferelo@outlook.com
 
